@@ -1,0 +1,2 @@
+# A-Calibrated-Multimodal-Fusion-Framework-for-Hybrid-Detection-of-Deepfake-Phishing-Vectors
+This repository contains the core pipeline, empirical testbed generator, and evaluation suite for the detection architecture. This research and its accompanying codebase were developed in partial fulfillment of the requirements for the Doctor of Engineering (D.Eng.) degree at The George Washington University (GWU).
